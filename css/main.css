@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+    
+}
+.wrapper{
+    gap: 30px;
+    padding: 50px;
+    margin: 0 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.big{
+    display: flex;
+    border: 100px solid  darkorange;
+    
+    height: 870px;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+}
+.text a h4{
+    text-align: center;
+    color: #7C501B;
+    font-weight: 300;
+    font-size: 22.5px;
+}
+.text h2{
+    font-weight: 700;
+    font-size: 30.625px;
+    color: #7C501B;
+}
+.fllow{
+    background: #7C4D15;
+    border-radius: 20px;
+    color: white;
+    width: 250px;
+    
+   text-align: center;
+   padding: 15px;
+}
+.fllow a h3{
+    color: white;
+
+} 
+.message{
+    border: 2px solid #7C4D15;
+    border-radius: 20px;
+    width: 250px;
+    padding: 10px;
+    text-align: center;
+  
+}
+.message a h3{
+    color: #7C501B;
+
+}
+.wrapper2{
+    padding:  20px;
+    gap: 10px;
+  
+    
+}
+.wrapper3{
+    padding: 0 20px 0;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #FCEAD0;
+    width: 281px;
+    height: 207px;
+    
+
+    
+    
+}
+.card1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #FCEAD0;
+    width: 281px;
+    height: 207px;
+}
+.card2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #FCEAD0;
+    width: 281px;
+    height: 207px;
+}
+
+
+.card h2{
+    font-weight: 300;
+    font-size: 58.2955px;
+}
+.card1 h2{
+    font-weight: 300;
+    font-size: 58.2955px;
+}
+.card2 h2{
+    font-weight: 300;
+    font-size: 58.2955px;
+}
+.card a h4{
+    font-weight: 300;
+    font-size: 33.0469px;
+    color: black;
+}
+.card1 a h4{
+    font-weight: 300;
+    font-size: 31.4196px;
+    color: black;
+}
+.card2 a h4{
+    font-weight: 300;
+    font-size: 22.5px;
+    color: black;
+}
+
